@@ -8,7 +8,7 @@ Utilized Socket.IO  to support real-time communication between clients and serve
 
 Built server-side logic in Node.js to manage chat rooms, message routing, and connection events
 
-Created front-end interface using HTML / CSS / JavaScriptmto provide a responsive user experience with live message updates.
+Created front-end interface using HTML / CSS / JavaScript to provide a responsive user experience with live message updates.
 
 Handled user events such as join/leave rooms, sending and receiving messages.
 
